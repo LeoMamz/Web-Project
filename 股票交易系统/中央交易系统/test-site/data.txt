@@ -1,0 +1,4 @@
+12,journalism,mass media,higher education press,2017,Xu Ke,65.23,4,4
+13,computer,introduce to computing system,Zhejiang University,2016,Lin lin,34.90,3,3
+14,computer,advanced data structure,Zhejiang University,2016,Mark,45.00,12,12
+15,psychology,heart travel,China Machine Press,1997,Mary,99.99,2,2

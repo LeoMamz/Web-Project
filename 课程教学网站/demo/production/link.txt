@@ -1,0 +1,12 @@
+﻿浙江大学官网
+http://www.zju.edu.cn/
+浙江大学计算机科学与技术学院
+http://www.cs.zju.edu.cn/
+PTA程序设计类实验辅助教学平台
+https://pintia.cn/
+教学管理信息服务平台
+http://10.202.110.46:8080/jwglxt/xtgl/login_slogin.html;jsessionid=A30C799D351F6D3879F54229DEB63B38
+程序设计专题网站
+http://10.71.45.100/
+计算机学院基础教学中心网站
+http://10.77.30.99/cstcx/index/index.php

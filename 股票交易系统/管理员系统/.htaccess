@@ -1,0 +1,5 @@
+RewriteEngine on 
+
+RewriteCond $1 !^(index\.php|style|static|robots\.txt) 
+
+RewriteRule ^(.*)$ /Administration/index.php/$1 [L]

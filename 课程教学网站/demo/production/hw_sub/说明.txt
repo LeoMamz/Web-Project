@@ -1,0 +1,14 @@
+其他教师的php开始时的Session_Start();后面加上
+if(!isset($_SESSION['user'])||$_SESSION['user']!="t"){
+      echo "<script>alert(\"您还未登录！\");window.location=\"login.php\";</script>";
+    }
+
+学生的php的Session_Start();后面加上
+if(!isset($_SESSION['user'])||$_SESSION['user']!="s"){
+      echo "<script>alert(\"您还未登录！\");window.location=\"login.php\";</script>";
+    }
+
+游客的php的Session_Start();后面加上
+if(!isset($_SESSION['user'])||$_SESSION['user']!="g"){
+      echo "<script>alert(\"您还未登录！\");window.location=\"login.php\";</script>";
+    }

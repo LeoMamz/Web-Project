@@ -1,0 +1,44 @@
+html{
+	background-color: #FFFFDF;
+}
+body{
+    width: 400px;
+	height: 900px;
+    margin: 1px auto;
+	margin-left: 0;
+    background-color: #97CBFF;
+    padding: 30px 30px 30px 30px;
+	border: 5px solid black;
+}
+#absolute{
+	font-size: 20px;
+	position: absolute;
+    margin-left: 600px;
+    width: 500px;
+	top: 70px;
+}
+#normal{
+	font-size: 20px;
+	position: absolute;
+	margin-left: 600px;
+	width: 500px;
+	top: 120px;
+}
+#pstyle{
+	font-size: 20px;
+	position: absolute;
+	margin-left: 1050px;
+	top: 55px;
+}
+h1{
+    font-size: 50px;
+    margin: 0;
+    padding: 20px 0;
+    color: #000000;
+    letter-spacing: 5px;
+}
+h2{
+	font-size: 20px;
+	margin: 0;
+	color: #000000;
+}

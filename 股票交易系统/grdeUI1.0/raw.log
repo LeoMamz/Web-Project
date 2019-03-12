@@ -1,0 +1,39 @@
+07:23:33 http://localhost:63342/grdeUI1.0/posttest1.php?_ijt=vak6imrgtpq79d5gdn5tpgnugj
+07:23:33 
+07:23:33 _GET: Key: _ijt; Value: vak6imrgtpq79d5gdn5tpgnugj
+07:25:32 http://localhost:63342/grdeUI1.0/posttest1.php
+07:25:32 
+07:25:32 _POST: Key: {
+____"id":_"17999030",
+____"method":_"sayHello",
+____"jsonrpc":_"2_0",
+____"params":_
+________{
+____________"acmac":_"00E0614CA7C6",
+____________"acconf_version":_"2015-10-28-09-45"
+________}
+____}; Value: 
+07:57:32 http://localhost:63342/grdeUI1.0/posttest1.php?_ijt=gs99i28dhg6646ugv2p6abd08d
+07:57:32 
+07:57:32 _GET: Key: _ijt; Value: gs99i28dhg6646ugv2p6abd08d
+07:58:26 http://localhost:63342/grdeUI1.0/posttest1.php
+07:58:26 
+07:58:26 _POST: Key: {
+____"id":_"17999030",
+____"method":_"sayHello",
+____"jsonrpc":_"2_0",
+____"params":_
+________{
+____________"acmac":_"00E0614CA7C6",
+____________"acconf_version":_"2015-10-28-09-45"
+________}
+____}; Value: 
+08:30:29 http://localhost:63342/grdeUI1.0/posttest1.php?_ijt=6njooi7570qu77bembf3gbruvh
+08:30:29 
+08:30:29 _GET: Key: _ijt; Value: 6njooi7570qu77bembf3gbruvh
+08:32:20 http://localhost:63342/grdeUI1.0/posttest1.php?_ijt=dk0jrjst5h6ipul9stgb34gjoh
+08:32:20 
+08:32:20 _GET: Key: _ijt; Value: dk0jrjst5h6ipul9stgb34gjoh
+00:29:26 http://localhost:63342/grdeUI1.0/posttest1.php?_ijt=kd75mjbteueqbh3l9488mk85ji
+00:29:26 
+00:29:26 _GET: Key: _ijt; Value: kd75mjbteueqbh3l9488mk85ji

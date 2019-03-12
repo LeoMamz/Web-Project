@@ -1,0 +1,19 @@
+.floor{
+	padding:20px;
+	min-height: 220px;
+}
+
+.firstfloor{
+	padding:20px;
+	min-height: 180px;
+}
+
+.floorReply_name{
+	min-width: 70px;
+}
+
+.floorReply_time{
+	width:150px;
+	text-align: right;
+	vertical-align: bottom;
+}
